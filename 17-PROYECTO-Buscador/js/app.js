@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+ 
+
+
+=======
 // Variables
 const marca = document.querySelector('#marca');
 const year = document.querySelector('#year');
@@ -168,3 +173,4 @@ function filtrarColor(auto) {
     }
     return auto;
 }
+>>>>>>> develop
