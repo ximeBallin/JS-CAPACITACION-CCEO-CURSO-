@@ -262,4 +262,6 @@ function cargarEdicion(cita) {
 
     editando = true;
 
+    
+
 }
