@@ -25,7 +25,7 @@ class UI {
         // Insertar en el DOM
         document.querySelector('#contenido').insertBefore( divMensaje , document.querySelector('.agregar-cita'));
 
-        // Quitar el alert despues de 3 segundos
+        // Quitar el alert deespues de 3 segundos
         setTimeout( () => {
             divMensaje.remove();
         }, 3000);
