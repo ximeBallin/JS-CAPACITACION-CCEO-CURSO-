@@ -18,7 +18,8 @@ class UI {
         } else {
             divMensaje.classList.add('alert-success');
         }
-
+ 
+        
         // Mensaje de error
         divMensaje.textContent = mensaje;
 
