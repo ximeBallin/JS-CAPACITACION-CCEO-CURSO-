@@ -15,6 +15,7 @@ if (btnGuardarCliente) {
     btnGuardarCliente.addEventListener('click', guardarCliente);
 }
 
+
 function guardarCliente() {
     const mesa = document.querySelector('#mesa').value;
     const hora = document.querySelector('#hora').value;
